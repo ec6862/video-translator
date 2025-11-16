@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+*.log
+
+# Build artifacts
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# Chrome extension temporary files
+extension.zip
