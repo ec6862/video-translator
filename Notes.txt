@@ -1,0 +1,21 @@
+Tech Stacks
+
+1. Client Overlay (Chrome Extension or Desktop App)
+    Chrome Extension MV3
+
+    React (for popup UI + settings)
+
+    Plain DOM / TypeScript for content script
+
+    WebAssembly modules for:
+
+    Fast Chinese segmentation (e.g., Jieba WASM)
+
+    Pinyin generation
+
+    Grammar tagging
+
+Maybe even lightweight offline translation
+2. Streaming Audio + Realtime Translation Engine
+3. Learning System Backend (Transcripts, Vocab, AI generation)
+4. Full Production Infra
